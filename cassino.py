@@ -4,7 +4,7 @@ import threading
 import time
 from datetime import datetime
 
-TOKEN = "SEU_TOKEN_AQUI"
+TOKEN = "8420579539:AAEKUk3vgbwedIR8cYhBkjAjtqF5RGduh70"
 bot = telebot.TeleBot(TOKEN)
 
 usuarios_ativos = {}
